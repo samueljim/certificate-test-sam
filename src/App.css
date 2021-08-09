@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500&family=Poppins:wght@800&display=swap');
 
 :root {
-  --blue: #0379FF;
-  --light-blue: #9AC9FF;
-  --dark-blue: #0261CC;
+  --blue: #ff5303;
+  --light-blue: #e2a99b;
+  --dark-blue: #670909;
   --white: #fff;
 }
 
@@ -76,4 +76,8 @@ svg {
 
 .bold {
   font-weight: 500;
+}
+
+img {
+  width: 100px;
 }
